@@ -57,8 +57,9 @@ The images were preprocessed, resized, normalized, and augmented before training
 
 <img width="462" height="469" alt="image" src="https://github.com/user-attachments/assets/023af3a2-ed89-4f2a-b79a-7b32e46cea98" />
 
+## Project Report Can be Viewed here-
 
-📄 [Project Report](./Detection of Pneumonia in xray scans.pdf)
+[Project Report](./Detection%20of%20Pneumonia%20in%20xray%20scans.pdf)
 
 ## Future Improvements
 
